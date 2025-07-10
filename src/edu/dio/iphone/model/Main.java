@@ -1,7 +1,7 @@
 package edu.dio.iphone.model;
 
 import java.util.Scanner;
-
+import edu.dio.iphone.interfaces.*;
 import edu.dio.iphone.main.IPhone;
 
 public class Main {
